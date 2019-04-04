@@ -1,0 +1,35 @@
+[33mcommit afa473202d2b0514b99291043fe8f33c9d389ddd[m[33m ([m[1;36mHEAD -> [m[1;32mNewBranch[m[33m, [m[1;31morigin/NewBranch[m[33m)[m
+Author: michael <you.example.com>
+Date:   Thu Apr 4 09:28:25 2019 +0200
+
+    modified something
+
+[33mcommit 7b8ab8f2d7c355bd10d0da4aaef1fef12b2d400c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: michael <you.example.com>
+Date:   Thu Apr 4 09:04:34 2019 +0200
+
+    modified readme
+
+[33mcommit 42fa9acd4492c21882bd58e9842fe5b682a1e4a7[m
+Author: michael <you.example.com>
+Date:   Thu Apr 4 09:01:42 2019 +0200
+
+    new travis file
+
+[33mcommit d5c90580daca141aa6d083bad113fcdd52594d26[m
+Author: michael <you.example.com>
+Date:   Thu Apr 4 08:56:30 2019 +0200
+
+    exercise one
+
+[33mcommit 8b4554a4a18dfac23f6929d7a44e4147a4ee2382[m
+Author: Mike <43440388+youngTickles@users.noreply.github.com>
+Date:   Thu Apr 4 08:31:21 2019 +0200
+
+    Update README.md
+
+[33mcommit 00049977b0b757a7a2a561ba091a231c2b853797[m
+Author: Mike <43440388+youngTickles@users.noreply.github.com>
+Date:   Thu Apr 4 08:29:33 2019 +0200
+
+    Initial commit
